@@ -1,0 +1,54 @@
+
+.main1{
+    width: 50%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-left: 30px;
+    line-height: 30px;
+}
+.num2{
+    width: 400px;
+    height: 30px;
+    border: 2px solid;
+}
+.select{
+    width: 400px;
+    height: 50px;
+
+}
+.preBtn{
+    gap: 10px;
+}
+.btn1{
+    position: relative;
+    display: flex;
+    gap: 100px;
+    width: 80vw;
+    margin-top: 30px;
+
+  }
+  .random{
+    height: 50px;
+    width: 50%;
+    color: black;
+    background-color: antiquewhite;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 3px solid blue;
+    border-radius: 10px;
+  }
+  .randomUnselect:hover{
+    cursor: pointer;
+  }
+  .randomUnselect{
+    height: 50px;
+    width: 50%;
+    color: black;
+    border: none;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+ 
+
+  }
+

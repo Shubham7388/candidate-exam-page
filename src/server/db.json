@@ -1,0 +1,74 @@
+{
+  "data": [
+    {
+      "title": "what is React",
+      "technology": "Python",
+      "questionType": "mcq",
+      "level": "easy",
+      "id": 1
+    },
+    {
+      "title": "what is java",
+      "technology": "Java",
+      "questionType": "programming",
+      "level": "intermediate",
+      "id": 2
+    },
+    {
+      "title": "write program to get prime number between 100-87346",
+      "technology": "Java",
+      "questionType": "Descriptive",
+      "level": "intermediate",
+      "id": 3
+    },
+    {
+      "title": "what is python?",
+      "technology": "Python",
+      "questionType": "programming",
+      "level": "easy",
+      "id": 4
+    },
+    {
+      "title": "Fibonacci series",
+      "technology": "Java",
+      "questionType": "mcq",
+      "level": "intermediate",
+      "id": 5
+    },
+    {
+      "title": "what is react redux?",
+      "technology": "React",
+      "questionType": "Descriptive",
+      "level": "hard",
+      "id": 6
+    },
+    {
+      "title": "what is redux",
+      "technology": "React",
+      "questionType": "Descriptive",
+      "level": "hard",
+      "id": 7
+    },
+    {
+      "title": "what is redux",
+      "technology": "React",
+      "questionType": "Descriptive",
+      "level": "hard",
+      "id": 8
+    },
+    {
+      "title": "Define php",
+      "technology": "Php",
+      "questionType": "programming",
+      "level": "hard",
+      "id": 9
+    },
+    {
+      "title": "qdwadsa",
+      "technology": "Python",
+      "questionType": "Descriptive",
+      "level": "intermediate",
+      "id": 10
+    }
+  ]
+}
